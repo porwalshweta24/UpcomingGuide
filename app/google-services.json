@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785667237096",
+    "project_id": "upcomingguide"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785667237096:android:0568e8d603f6b2f2",
+        "android_client_info": {
+          "package_name": "com.android.upcomingguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785667237096-5es13p8hvn2rbkkrggen3lbnagh18iak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhq8zZU6xgHf5yvr7AjR69LTs8LZyZkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

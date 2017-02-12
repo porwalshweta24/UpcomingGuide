@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Upcoming Guide</string>
+    <string name="gplus_login">G+ Login</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="btn_upcoming_guides">Upcoming Guides</string>
+    <string name="msg_loggin_required">Login required to check upcoming guide list.</string>
+
+    <string name="loading">loading...</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Settings</item>
+        <item>Upcoming Guide</item>
+    </string-array>
+</resources>
